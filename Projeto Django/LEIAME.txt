@@ -1,0 +1,20 @@
+Grupo Avendors:
+
+Leonardo Bernardes RA. 1601129
+Ricardo Pierre RA. 1601087
+Rhuan Carlos RA. 1600902
+
+python - versão 3.6.1
+django - versão 1.6.2
+sem virtualenv 
+
+Efetuado no google chrome
+responsivo
+paginas ativas:
+
+-base
+-home
+-parceiros
+-contatos
+-novo cadastro
+-login
